@@ -3368,8 +3368,8 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle
           width: 12px;
           min-width: 12px;
           height: 12px;
-          border-bottom: 2px solid #fff;
-          border-right: 2px solid #fff;
+          border-bottom: 0px solid #fff;
+          border-right: 0px solid #fff;
           -webkit-transform: rotate(45deg);
               -ms-transform: rotate(45deg);
                   transform: rotate(45deg);
