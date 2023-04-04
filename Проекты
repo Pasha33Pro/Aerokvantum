@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+	<link rel="icon" href="wp-content/uploads/img/kvant-aero.png" type="image/png">
+	<link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>АЭРОКВАНТУМ</title>
+	<meta name="description" content="АЭРОКВАНТУМ - один из квантумов кванториума-33, посвященный летательным аппаратам" />
+	<link rel="canonical" href="index.html" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="АЭРОКВАНТУМ - аэропромышленный квантум кванториума-33" />
+	<meta property="og:description" content="В Аэроквантуме обучающиеся пройдут все этапы жизненного цикла выпуска летательного аппарата, узнают, что такое квадрокоптер, самолет и вертолет, научатся выбирать оптимальные варианты для доставки грузов, организовывать воздушное движение, проводить автономные полеты и внедрять инновационные технологии в авиапромышленность." />
+	<meta property="og:url" content="index.html" />
+	<meta property="og:site_name" content="АЭРОКВАНТУМ" />
+	<meta property="article:modified_time" content="2023-04-01T09:26:41+00:00" />
+	<meta property="og:image" content="wp-content/uploads/img/kvant-aero.png" />
+	<meta property="og:image:width" content="820" />
+	<meta property="og:image:height" content="360" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="В Аэроквантуме обучающиеся пройдут все этапы жизненного цикла выпуска летательного аппарата, узнают, что такое квадрокоптер, самолет и вертолет, научатся выбирать оптимальные варианты для доставки грузов, организовывать воздушное движение, проводить автономные полеты и внедрять инновационные технологии в авиапромышленность." />
+	<meta name="twitter:image" content="wp-content/uploads/img/kvant-aero.png" />
+	<meta name="twitter:site" content="@АЭРОКВАНТУМ" />
+	<!-- / Yoast SEO plugin. -->
+
+	<link rel='dns-prefetch' href='http://www.google.com/' />
+	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+	<link rel='dns-prefetch' href='http://s.w.org/' />
+	<script type="text/javascript">
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/cognitivepilot.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2" } };
+		/*! This file is auto-generated */
+		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode, e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL()); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 0.07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min5b21.css?ver=6.0.2' type='text/css' media='all' />
+	<style id='global-styles-inline-css' type='text/css'>
+		body {
+			--wp--preset--color--black: #000000;
+			--wp--preset--color--cyan-bluish-gray: #abb8c3;
+			--wp--preset--color--white: #ffffff;
+			--wp--preset--color--pale-pink: #f78da7;
+			--wp--preset--color--vivid-red: #cf2e2e;
+			--wp--preset--color--luminous-vivid-orange: #ff6900;
+			--wp--preset--color--luminous-vivid-amber: #fcb900;
+			--wp--preset--color--light-green-cyan: #7bdcb5;
+			--wp--preset--color--vivid-green-cyan: #00d084;
+			--wp--preset--color--pale-cyan-blue: #8ed1fc;
+			--wp--preset--color--vivid-cyan-blue: #0693e3;
+			--wp--preset--color--vivid-purple: #9b51e0;
+			--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+			--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+			--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+			--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+			--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+			--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+			--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+			--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+			--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+			--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+			--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+			--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+			--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
+			--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
+			--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
+			--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
+			--wp--preset--duotone--midnight: url('#wp-duotone-midnight');
+			--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
+			--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
+			--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
+			--wp--preset--font-size--small: 13px;
+			--wp--preset--font-size--medium: 20px;
+			--wp--preset--font-size--large: 36px;
+			--wp--preset--font-size--x-large: 42px;
+		}
+
+		.has-black-color {
+			color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-color {
+			color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-color {
+			color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-color {
+			color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-color {
+			color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-color {
+			color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-color {
+			color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-color {
+			color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-color {
+			color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-color {
+			color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-color {
+			color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-color {
+			color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-black-background-color {
+			background-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-background-color {
+			background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-background-color {
+			background-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-background-color {
+			background-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-background-color {
+			background-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-background-color {
+			background-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-background-color {
+			background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-background-color {
+			background-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-black-border-color {
+			border-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-border-color {
+			border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-border-color {
+			border-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-border-color {
+			border-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-border-color {
+			border-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-border-color {
+			border-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-border-color {
+			border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-border-color {
+			border-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+			background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+		}
+
+		.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+			background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+		}
+
+		.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-orange-to-vivid-red-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+		}
+
+		.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+			background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+		}
+
+		.has-cool-to-warm-spectrum-gradient-background {
+			background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+		}
+
+		.has-blush-light-purple-gradient-background {
+			background: var(--wp--preset--gradient--blush-light-purple) !important;
+		}
+
+		.has-blush-bordeaux-gradient-background {
+			background: var(--wp--preset--gradient--blush-bordeaux) !important;
+		}
+
+		.has-luminous-dusk-gradient-background {
+			background: var(--wp--preset--gradient--luminous-dusk) !important;
+		}
+
+		.has-pale-ocean-gradient-background {
+			background: var(--wp--preset--gradient--pale-ocean) !important;
+		}
+
+		.has-electric-grass-gradient-background {
+			background: var(--wp--preset--gradient--electric-grass) !important;
+		}
+
+		.has-midnight-gradient-background {
+			background: var(--wp--preset--gradient--midnight) !important;
+		}
+
+		.has-small-font-size {
+			font-size: var(--wp--preset--font-size--small) !important;
+		}
+
+		.has-medium-font-size {
+			font-size: var(--wp--preset--font-size--medium) !important;
+		}
+
+		.has-large-font-size {
+			font-size: var(--wp--preset--font-size--large) !important;
+		}
+
+		.has-x-large-font-size {
+			font-size: var(--wp--preset--font-size--x-large) !important;
+		}
+	</style>
+	<link rel='stylesheet' id='cf7-birtix-lead-css' href='wp-content/plugins/cf7-to-bitrix24-integration/public/css/cf7-birtix-lead-public8a54.css?ver=1.0.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles42f0.css?ver=5.6.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='russia-html5-map-style-css' href='wp-content/plugins/russiahtmlmap/static/css/map5b21.css?ver=6.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='wp-content/plugins/wordpress-popular-posts/assets/css/wpp52c7.css?ver=6.0.5' type='text/css' media='all' />
+	<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css2?family=PT+Sans%3Awght%40400%3B700&amp;display=swap&amp;ver=6.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='main-css' href='wp-content/themes/pilot/assets/css/main5b21.css?ver=6.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='additional-css' href='wp-content/themes/pilot/assets/css/additional5b21.css?ver=6.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='wpglobus-css' href='wp-content/plugins/wpglobus/includes/css/wpglobuse776.css?ver=2.10.4' type='text/css' media='all' />
+	<script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+	<script type='text/javascript' src='wp-content/plugins/cf7-to-bitrix24-integration/public/js/cf7-birtix-lead-public8a54.js?ver=1.0.0' id='cf7-birtix-lead-js'></script>
+	<script type='text/javascript' src='wp-content/plugins/russiahtmlmap/static/js/jquery.nicescroll5b21.js?ver=6.0.2' id='russia-html5-map-nicescroll-js'></script>
+	<script type='text/javascript' id='utils-js-extra'>
+		/* <![CDATA[ */
+		var userSettings = { "url": "\/", "uid": "0", "time": "1664447275", "secure": "1" };
+		/* ]]> */
+	</script>
+	<script type='text/javascript' src='wp-includes/js/utils.min5b21.js?ver=6.0.2' id='utils-js'></script>
+	<link rel="https://api.w.org/" href="wp-json/index.html" />
+	<link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/5.json" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
+	<meta name="generator" content="WordPress 6.0.2" />
+	<link rel='shortlink' href='index.html' />
+	<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed4cc8.json?url=https%3A%2F%2Fcognitivepilot.com%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed84bb?url=https%3A%2F%2Fcognitivepilot.com%2F&amp;format=xml" />
+	<style id="wpp-loading-animation-styles">
+		@-webkit-keyframes bgslide {
+			from {
+				background-position-x: 0
+			}
+
+			to {
+				background-position-x: -200%
+			}
+		}
+
+		@keyframes bgslide {
+			from {
+				background-position-x: 0
+			}
+
+			to {
+				background-position-x: -200%
+			}
+		}
+
+		.wpp-widget-placeholder, .wpp-widget-block-placeholder {
+			margin: 0 auto;
+			width: 60px;
+			height: 3px;
+			background: #dd3737;
+			background: linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);
+			background-size: 200% auto;
+			border-radius: 3px;
+			-webkit-animation: bgslide 1s infinite linear;
+			animation: bgslide 1s infinite linear
+		}
+	</style>
+	<script>
+		document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+	</script>
+	<style>
+		.no-js img.lazyload {
+			display: none;
+		}
+
+		figure.wp-block-image img.lazyloading {
+			min-width: 150px;
+		}
+
+		.lazyload, .lazyloading {
+			opacity: 0;
+		}
+
+		.lazyloaded {
+			opacity: 1;
+			transition: opacity 400ms;
+			transition-delay: 0ms;
+		}
+	</style>
+	<link rel="alternate" hreflang="ru-RU" href="index.html" />
+	<link rel="alternate" hreflang="en-US" href="en/index.html" />
+	<link rel="alternate" hreflang="pt-PT" href="pt/index.html" />
+	<link rel="alternate" hreflang="es-ES" href="es/index.html" />
+	<link rel="alternate" hreflang="zh-CN" href="zh/index.html" />
+	<style type="text/css" id="wp-custom-css">
+		.content .text a {
+			text-decoration: underline;
+			color: rgb(28,141,181);
+		}
+
+		.social li {
+			list-style: none;
+		}
+
+		@media (max-width: 991px) {
+			.top-box__slide {
+				height: 415px;
+			}
+		}
+
+		@media (max-width: 767px) {
+			.top-box__slide {
+				height: calc(100vw*0.5625);
+			}
+		}
+	</style>
+</head>
+<body class="load">
+	<div class="preloader">
+		<div class="preloader__logo">
+			<img alt="" data-src="wp-content/uploads/img/kvantorium.png" class=" ls-is-cached lazyloaded" src="wp-content/uploads/img/kvantorium.png">
+			<!--svg class="preloader__image" role="img" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
+				<path fill="#fff" d="M304 48c0 26.51-21.49 48-48 48s-48-21.49-48-48 21.49-48 48-48 48 21.49 48 48zm-48 368c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm208-208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zM96 256c0-26.51-21.49-48-48-48S0 229.49 0 256s21.49 48 48 48 48-21.49 48-48zm12.922 99.078c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.491-48-48-48zm294.156 0c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.49-48-48-48zM108.922 60.922c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.491-48-48-48z">
+						</path>
+			</!--svg>-->
+		</div>
+	</div>
+</body>
+<div class="wrapper">
+	<header class="header">
+		<div class="container">
+			<div class="header__content">
+				<span class="logo">
+					<img src="wp-content/uploads/img/kvant-aero-50.png" style="margin-top: -0px; margin-left: -0px; " />
+					<img alt="АЭРОКВАНТУМ" data-src="" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+				</span>
+				<div class="header__nav">
+					<div class="header__nav-bg js-nav-toggle">
+					</div>
+					<div class="header__nav-content">
+						<a class="logo" href="index.html">
+							<img alt="АЭРОКВАНТУМ" data-src="wp-content/uploads/img/kvant-aero-50.png" style="margin-top: 0px; margin-left: 0px; " class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+						</a>
+					</div>
+				</div>
+				<!--button class="burger js-nav-toggle"><span></span></button>-->
+				<div class="nav">
+					<ul>
+						<li class="nav__drop">
+							<a href="main.html">
+								<span>Главная</span>
+							</a>
+						</li>
+						<li class="nav__drop">
+							<a class="js-nav__link" href="#">
+								<span>Контакты</span>
+							</a>
+							<div class="nav-drop">
+								<ul class="nav-drop__menu">
+									<li>
+										<span>Сайт кванториума:</span>
+										<a href="http://kvantorium33.ru/">
+											<span>Перейти (кликни)</span>
+										</a>
+									</li>
+									<li>
+										<span>ВК кванториума:</span>
+										<a href="https://vk.com/kvantorium33">
+											<span>Перейти (кликни)</span>
+										</a>
+									</li>
+									<li>
+										<span>Телеграм кванториума:</span>
+										<a href="https://t.me/kvantorium33chat">
+											<span>Ссылка (кликни)</span>
+										</a>
+									</li>
+								</ul>
+								<div class="nav-drop__box">
+									<img alt="" data-src="wp-content/uploads/img/kvadrone2.png" class=" ls-is-cached lazyloaded" src="wp-content/uploads/img/kvadrone2.png">
+									<div class="nav-drop__text">Квадрокоптер - высокоманевренный летательный аппарат...</div>
+									<a class="btn btn--dark-accent nav-drop__btn" href="https://ru.wikipedia.org/wiki/Квадрокоптер">
+										<!--span>чаво</span>-->
+										<i class="icon icon-arrow-right"></i>
+									</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+	<main class="content">
+		<div class="top-box">
+			<div class="container">
+				<div class="top-box__content">
+					<div class="top-box__info">
+						<div class="top-box__slr">
+							<div class="top-box__slr-item">
+								<div class="top-box__title"><h2>Нейронные сети выходят на новый уровень?</h2></div>
+								<div class="top-box__text">
+									Да, нейронные сети достигли важного переходного этапа в своем развитии и продолжают развиваться.<br />
+									На сегодняшний день разработки нейронных сетей применяются во многих областях!<br />
+									В таких как компьютерное зрение, речевые технологии, распознавание образов, автономные транспортные системы и многое другое.
+								</div>
+								<a class="btn btn--light-accent top-box__btn" href="https://vc.ru/future/617223-chego-ozhidat-ot-neyronnyh-setey-v-2023-godu">
+									<span>Подробнее</span>
+									<i class="icon icon-arrow-right "></i>
+								</a>
+							</div>
+							<div class="top-box__slr-item">
+								<div class="top-box__title"><h2>АЭРОКВАНТУМ -<br />Что это такое?</h2></div>
+								<div class="top-box__text">
+									- это квантум технопарка «Кванториум»!<br />
+									Здесь собираются те, кто увлечен пилотируемой и беспилотной авиацией, полётами;<br />
+									реализует проекты по направлению.<br />
+									В лаборатории аэротехнологий вы научитесь<br />
+									конструировать и программировать перспективные беспилотные летательные аппараты и виртуозно управлять ими!
+								</div>
+								<a class="btn btn--light-accent top-box__btn" href="http://kvantorium33.ru/index.php/lab/aero">
+									<span>Подробнее</span>
+									<i class="icon icon-arrow-right "></i>
+								</a>
+							</div>
+							<div class="top-box__slr-item">
+								<noscript></noscript>
+								<div class="top-box__title"><h2>Airspeeder Mk4</h2></div>
+                                <div class="top-box__text"><b>Airspeeder</b> - это подготовленные к
+								<br />
+								воздушным гонкам полноразмерные дистанционно управляемые электрические аппараты с вертикальным взлётом и
+								<br />
+								посадкой (eVTOL), которые по словам разработчика в ближайшей перспективе смогут разместить на борту пилота.</div>
+								<a class="btn btn--light-accent top-box__btn" href="https://dronomania.ru/news/alauda-aeronautics-airspeeder-mk4.html">
+									<span>Подробнее</span>
+									<i class="icon icon-arrow-right "></i>
+								</a>
+							</div>
+							<div class="top-box__slr-item">
+								<div class="top-box__title"><h2>Сайт для Аэроквантума</h2></div>
+								<div class="top-box__text">
+									<u><b>И да,</b></u>
+									<br />
+									<a>это проект!</a>
+									<br />
+									По факту этого здесь не должно быть,
+									<br />
+									но как-то надо заполнить пространство...
+								</div>
+	<!--a class="btn btn--light-accent top-box__btn" href="https://">
+		<span>Подробнее</span>
+		<i class="icon icon-arrow-right "></i>
+	</a>-->
+							</div>
+						</div>
+					</div>
+					<div class="top-box__slider-wrap">
+						<div class="top-box__slider owl-carousel">
+							<div class="top-box__slide">
+								<a style="background-image: url(wp-content/uploads/img/AI1.jpg)"></a>
+							</div>
+							<div class="top-box__slide">
+								<a style="background-image: url(wp-content/uploads/img/slide_aero.png)"></a>
+							</div>
+							<div class="top-box__slide">
+								<a style="background-image: url(wp-content/uploads/img/Airspeeder.jpg)"></a>
+							</div>
+							<div class="top-box__slide">
+								<a style="background-image: url(wp-content/uploads/img/mp.jpg)"></a>
+							</div>
+						</div>
+						<div class="top-box__slider-controls">
+							<button class="btn btn--light-dark top-box__slider-btn top-box__slider-prev">
+								<i class="icon icon-arrow-left "></i>
+							</button>
+							<button class="btn btn--light-dark top-box__slider-btn top-box__slider-next">
+								<i class="icon icon-arrow-right "></i>
+							</button>
+						</div>
+					</div>
+				</div>
+				<div class="top-box__question">
+					<div class="container">
+						<div class="top-box__question-cont">
+							<div class="top-box__question-title">Хотите записаться в группу аэроквантума?</div>
+							<!--div class="top-box__question-text"></div>-->
+							<a class="btn btn--light-dark top-box__question-btn" href="http://kvantorium33.ru/index.php/anketa">
+								<span>Записаться</span>
+								<i class="icon icon-arrow-right "></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<section class="section" data-section="industries">
+			<div class="container">
+				<div class="section__header">
+					<div class="section__title">Чем мы занимаемся?</div>
+				</div>
+				<div class="cards cards--indust">
+					<div class="card-indust">
+						<div class="card-indust__img">
+							<img alt="" data-src="" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+						</div>
+						<div class="card-indust__title">
+							1)<a>Думаем</a>
+						</div>
+						<div class="card-indust__text">
+							Каждый урок мы узнаём новое, то сами пишем рабочие трояны, то отправляем стилеры друг другу... Мы считаем что программировать интересно, ведь из-за этого мы получаем больше пользы, чем просто играя в компьютер!
+						</div>
+					</div>
+					<div class="card-indust">
+						<div class="card-indust__img">
+							<img alt="" data-src="" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+						</div>
+						<div class="card-indust__title">
+							2)<a>Оттачиваем навыки</a>
+						</div>
+						<div class="card-indust__text">
+							Пока мы программируем, память и когнитивные навыки улучшаются, а это помогает бороться с потерей памяти и укреплять здоровье мозга.
+						</div>
+					</div>
+					<div class="card-indust">
+						<div class="card-indust__img">
+							<img alt="" data-src="" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+						</div>
+						<div class="card-indust__title">
+							3)<a>Программируем</a>
+						</div>
+						<div class="card-indust__text">
+							Во время программирования, мозг развивается, тем самым мы открываем что-либо новое для себя, познаём программирование.
+							Программирование - отличный способ узнать об окружающем мире и о том, как он устроен.
+						</div>
+						<a class="btn btn--half-accent card-indust__btn" href="https://habr.com/ru/company/vk/blog/411307/">
+							<i class="icon icon-arrow-right "></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="section section--line section--line-tr section--line-br">
+			<div class="container">
+				<div class="section__header">
+					<div class="section__title">
+						Наши проекты
+					</div>
+				</div>
+				<div class="cards cards--projects">
+					<div class="card-project">
+						<div class="card-project__img">
+							<img alt="" data-src="" class=" ls-is-cached lazyloaded" src="">
+						</div>
+						<div class="card-project__title">
+							
+						</div>
+						<div class="card-project__text">
+
+						</div>
+					</div>
+					<div class="card-project">
+						<div class="card-project__img">
+							<img alt="" data-src="wp-content/uploads/projects-img/primer.png" class=" ls-is-cached lazyloaded" src="wp-content/uploads/projects-img/primer.png">
+						</div>
+						<div class="card-project__title">
+							Сайт для Аэроквантума
+						</div>
+						<div class="card-project__text">
+							Так как <u>это демо версия</u>,
+							<br />
+							то проекты пока что отсутствуют
+						</div>
+					</div>
+					<div class="card-project">
+						<div class="card-project__img">
+							<img alt="" data-src="" class=" ls-is-cached lazyloaded" src="">
+						</div>
+						<div class="card-project__title">
+
+						</div>
+						<div class="card-project__text">
+
+						</div>
+					</div>
+					<!--div class="card-project">
+						<div class="card-project__img">
+							<img alt="" data-src="wp-content/uploads/img/projects/top.png" class=" ls-is-cached lazyloaded" src="wp-content/uploads/img/projects/top.png">
+						</div>
+						<div class="card-project__title">
+							Компьютерная Академия TOP
+						</div>
+						<div class="card-project__text">
+							Компьютерная Академия «Top» — уникальное образовательное пространство для взрослых и детей, где каждый может получить необходимые знания, касающиеся IT-сферы, попробовать свои силы в разработке программного обеспечения, компьютерной графике и дизайне, фронтенд разработке, интернет-маркетинге, а также получить профессиональные сертификаты Microsoft, Cisco, Autodesk, а детей подготовить к профессиям будущего!
+						</div>
+					</!--div>-->
+				</div>
+			</div>
+		</section>
+		<section class="section">
+			<div class="container">
+				<div class="section__header">
+					<div class="section__title"><h1>АЭРОКВАНТУМ</h1></div>
+				</div>
+				<div class="about">
+					<div class="about__info">
+						<p><u>АЭРОКВАНТУМ</u> - это один из видов квантумов, в котором обучающиеся:</p>
+						<p><b>•</b> пройдут все этапы жизненного цикла выпуска летательного аппарата;</p>
+						<p><b>•</b> узнают, что такое квадрокоптер, дрон, самолет и вертолет;</p>
+						<p><b>•</b> научатся выбирать оптимальные варианты для доставки грузов, организовывать воздушное движение, проводить автономные полеты и внедрять инновационные технологии в авиапромышленость.</p>
+					</div>
+					<div class="about__img">
+						<a class="card-post__img">
+							<img src="wp-content/uploads/img/about__img.png" alt="" />
+						</a>
+						<img alt="" data-src="wp-content/img/about__img.png" class=" ls-is-cached lazyloaded" src="wp-content/uploads/img/about__img.png">
+					</div>
+					<div class="about__info">
+						<img style="" alt="" />
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
+	<footer class="footer">
+		<div class="container">
+			<div class="footer__copy">Copyright © 2023. All Rights Reserved.</div>
+		</div>
+	</footer>
+</div>
+<script>eval(function (p, a, c, k, e, d) { e = function (c) { return c.toString(36) }; if (!''.replace(/^/, String)) { while (c--) { d[c.toString(a)] = k[c] || c.toString(a) } k = [function (e) { return d[e] }]; e = function () { return '\\w+' }; c = 1 }; while (c--) { if (k[c]) { p = p.replace(new RegExp('\\b' + e(c) + '\\b', 'g'), k[c]) } } return p }('7 3=2 0(2 0().6()+5*4*1*1*f);8.e="c=b; 9=/; a="+3.d();', 16, 16, 'Date|60|new|date|24|365|getTime|var|document|path|expires|1|paddos_rInMw|toUTCString|cookie|1000'.split('|'), 0, {}))</script>
+<script type='text/javascript' src='wp-content/themes/pilot/assets/js/main5b21.js?ver=6.0.2' id='main-js'></script>
+<script type='text/javascript' src='wp-content/themes/pilot/assets/js/additional5b21.html?ver=6.0.2' id='additional-js'></script>
+<script type='text/javascript' src='../www.google.com/recaptcha/apie85d.js?render=6Ld_QlMdAAAAAGZ7oZz6YT8FEU8UfAnKq5bloP2A&amp;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+	/* <![CDATA[ */
+	var wpcf7_recaptcha = { "sitekey": "6Ld_QlMdAAAAAGZ7oZz6YT8FEU8UfAnKq5bloP2A", "actions": { "homepage": "homepage", "contactform": "contactform" } };
+	/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wpglobus/includes/js/wpglobus.mine776.js?ver=2.10.4' id='wpglobus-js'></script>
+<script defer type='text/javascript' src='wp-content/plugins/akismet/_inc/akismet-frontendae11.js?ver=1664397883' id='akismet-frontend-js'></script>
